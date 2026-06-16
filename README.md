@@ -198,6 +198,14 @@ Flutter Developer with deep cross-platform experience and **7+ years** in softwa
 | <a href="https://github.com/AbdelrahmenSalama256/abdoo-ShareAldawli-Flutter">abdoo-ShareAldawli-Flutter</a> | Share Aldawli association app |
 | <a href="https://github.com/AbdelrahmenSalama256/qafeel">qafeel</a> | Smart parking app (Saudi Arabia) |
 | <a href="https://github.com/AbdelrahmenSalama256/atom_ai_agent">atom_ai_agent</a> | AI agent project |
+| <a href="https://github.com/AbdelrahmenSalama256/homz-plus">homz-plus</a> | AI-powered home furnishing app |
+| <a href="https://github.com/AbdelrahmenSalama256/MedAce">MedAce</a> | Flutter LMS mobile app for online courses |
+| <a href="https://github.com/AbdelrahmenSalama256/shreen-ecommerce">shreen-ecommerce</a> | Flutter e-commerce mobile app |
+| <a href="https://github.com/AbdelrahmenSalama256/chatapp-flutter">chatapp-flutter</a> | Chat application built with Flutter |
+| <a href="https://github.com/AbdelrahmenSalama256/absen">absen</a> | Attendance management Flutter app |
+| <a href="https://github.com/AbdelrahmenSalama256/canSnap">canSnap</a> | CanSnap Flutter mobile application |
+| <a href="https://github.com/AbdelrahmenSalama256/dashboard-varny">dashboard-varny</a> | Varny management dashboard (Flutter) |
+| <a href="https://github.com/AbdelrahmenSalama256/ask-lawyer-web">ask-lawyer-web</a> | AskLawyer legal consultation platform (Flutter) |
 
 </details>
 
@@ -208,6 +216,20 @@ Flutter Developer with deep cross-platform experience and **7+ years** in softwa
 |------------|-------------|
 | <a href="https://github.com/AbdelrahmenSalama256/cozy-web">cozy-web</a> | Multi-page e-commerce website (HTML/CSS/JS) |
 | <a href="https://github.com/AbdelrahmenSalama256/muqithechef">muqithechef</a> | Restaurant website (HTML/CSS/JS) |
+| <a href="https://github.com/AbdelrahmenSalama256/dr-amr-xpedent">dr-amr-xpedent</a> | ExamVision loupes & lights multilingual website |
+| <a href="https://github.com/AbdelrahmenSalama256/Al-Araby">Al-Araby</a> | Al-Araby e-commerce website (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/alsoltan3">alsoltan3</a> | Alsoltan dates & honey e-commerce website |
+| <a href="https://github.com/AbdelrahmenSalama256/advanced-clinic">advanced-clinic</a> | Advanced Clinic website (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/acds-initial">acds-initial</a> | ACDS project initial version |
+| <a href="https://github.com/AbdelrahmenSalama256/AAG">AAG</a> | AAG website project (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/Ab">Ab</a> | Ab website project (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/canbest">canbest</a> | CanBest product website (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/dental-care">dental-care</a> | Dental Care website (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/landYandB">landYandB</a> | Landing page website |
+| <a href="https://github.com/AbdelrahmenSalama256/lifemaker">lifemaker</a> | LifeMaker website (HTML/CSS) |
+| <a href="https://github.com/AbdelrahmenSalama256/lyrebirds">lyrebirds</a> | Lyrebirds static website |
+| <a href="https://github.com/AbdelrahmenSalama256/rabeta">rabeta</a> | Rabeta static website |
+| <a href="https://github.com/AbdelrahmenSalama256/treecore">treecore</a> | TreeCore static website |
 
 </details>
 
@@ -255,3 +277,4 @@ Flutter Developer with deep cross-platform experience and **7+ years** in softwa
   
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmenSalama256&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
+
