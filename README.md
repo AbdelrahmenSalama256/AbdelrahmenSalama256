@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=2196F3&center=true&vCenter=true&width=600&lines=Abdelrahman+Salama;Flutter+Developer;Cross-Platform+Mobile+Apps;7%2B+Years+of+Experience;25%2B+Delivered+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=2196F3&center=true&vCenter=true&width=600&lines=Abdulrahman+Salama;Flutter+Developer;Cross-Platform+Mobile+Apps;7%2B+Years+of+Experience;25%2B+Delivered+Apps" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -9,6 +9,8 @@
   <a href="https://www.linkedin.com/in/abdelrahman-salama-08601a200"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abdosalama25802030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AbdelrahmenSalama256"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://bit.ly/4z4RkNG"><img src="https://img.shields.io/badge/CV-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+  <a href="https://drive.google.com/drive/folders/1u4gTEDw2eEOuRsJg2wJQtVtXp23uA59S"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-000000?style=for-the-badge&logo=google-maps&logoColor=white"/>
   
 </div>
@@ -26,30 +28,102 @@ Flutter Developer with deep cross-platform experience and **7+ years** in softwa
 <div align="center">
 
 ### Mobile
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+
 ![BLoC](https://img.shields.io/badge/BLoC-0D47A1?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+
+
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00BCD4?style=for-the-badge&logo=flutter&logoColor=white)
 
+
+
 ### Web
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+
 ### Backend & Services
+
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+
+
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
+
+
+
+
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 
+
+
 ### Tools
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 </div>
 
@@ -261,6 +335,15 @@ Flutter Developer with deep cross-platform experience and **7+ years** in softwa
 
 ---
 
+## Links
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/abdelrahman-salama-08601a200
+- 📄 **CV:** https://bit.ly/4z4RkNG
+- 💻 **GitHub:** https://github.com/AbdelrahmenSalama256
+- 📁 **Google Drive (Projects):** https://drive.google.com/drive/folders/1u4gTEDw2eEOuRsJg2wJQtVtXp23uA59S
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:1565C0&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=20&fontColor=white" />
   
@@ -277,4 +360,3 @@ Flutter Developer with deep cross-platform experience and **7+ years** in softwa
   
   <img src="https://komarev.com/ghpvc/?username=AbdelrahmenSalama256&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
-
