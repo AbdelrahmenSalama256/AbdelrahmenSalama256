@@ -111,9 +111,6 @@ Donation campaigns, payments and multi-language account management.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AbdelrahmenSalama256&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/2196F3/AbdelrahmenSalama256" alt="Contribution chart" />
-</p>
 
 <div align="center">
 
