@@ -16,7 +16,7 @@
 
 ### 👋 About me
 
-- 📱 **Flutter team lead at [evyX](https://evyx.com)**: architecture (BLoC, Clean Architecture), code review, mentoring and store releases.
+- 📱 **Led the Flutter team at [evyX](https://evyx.com)** (2024–2025): architecture (BLoC, Clean Architecture), code review, mentoring and store releases.
 - 🚀 **25+ apps delivered** for clients in **Egypt, Saudi Arabia and Canada**: ride-hailing, marketplaces, e-commerce, donations, parking and enterprise tools.
 - 🤖 **AI inside real products**: a conversational product assistant (MaxLiss) and AI interior visualisation (Homz Plus).
 - 🎨 **Design included**: I can take an app from no design files to a published release.
