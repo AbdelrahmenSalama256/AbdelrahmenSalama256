@@ -105,14 +105,14 @@ Donation campaigns, payments and multi-language account management.
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmenSalama256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmenSalama256&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrahmenSalama256&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdelrahmenSalama256&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AbdelrahmenSalama256&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmenSalama256&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://ghchart.rshah.org/2196F3/AbdelrahmenSalama256" alt="Contribution chart" />
 </p>
 
 <div align="center">
